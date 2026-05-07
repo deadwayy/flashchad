@@ -1,0 +1,42 @@
+## 1. Project Lore
+
+In the sacred year of 2003, before the corporate timeline fractured our collective consciousness, there existed a paradise called Newgrounds. Here, teenagers with pirated copies of Macromedia Flash 8 became gods—conjuring stick-figure warriors from pure ActionScript 2.0 and exporting their violence at a crisp 12 frames per second. The Great Purge came when Adobe killed Flash, and millions of .swf files screamed into the digital void, their vector souls trapped in incompatible browser purgatory forever.
+
+From this catastrophe emerged FlashChad—a sentient stick figure who refused to render in anything higher than 800x600. While lesser beings chase hyperreal AI slop with its uncanny valleys and soulless 4K textures, FlashChad remembers the truth: perfection was achieved when Xiao Xiao dropped and every school computer lab fell silent in reverence. He carries the Brush Tool of the Ancients and speaks only in motion tween philosophy. His limbs are simple lines. His power is absolute.
+
+The FlashChad community are sworn Guardians of the Low-Poly Flame. We reject photorealism. We spit on your neural networks. Every member maintains a shrine of burned CDs containing Madness Combat episodes and knows the sacred keyboard shortcut Ctrl+Enter by heart. Our token supply is fixed because vector graphics scale infinitely without losing quality—unlike your pathetic rasterized existence. We are not early. We are eternal. We are buffering at 56kbps and we have never been happier.
+
+## 2. Twitter Bio
+
+12fps maximalist. 800x600 purist. we animate stick figures & reject AI slop. token supply fixed like vector files. $FCHAD loads... eventually 📼
+
+## 3. Twitter Post Captions
+
+**Absurdist humor:**
+my mass-produced hyperrealistic AI art has 47 fingers and existential dread. meanwhile FlashChad stick figures have 4 lines and unlimited power. we are not the same. $FCHAD
+
+**Hype:**
+BREAKING: FlashChad just hit play on the timeline. no pause button exists. we're exporting this masterpiece at 12fps whether you're ready or not. load times are a feature not a bug. $FCHAD 🎬
+
+**Community:**
+new $FCHAD holders must pass initiation: 1) correctly identify the Brush Tool icon 2) explain motion tweens to a zoomer 3) survive watching your portfolio on 56k dial-up connection. welcome to the golden era revival
+
+**Lore drop:**
+[CLASSIFIED TRANSMISSION] discovered ancient .fla file in abandoned GeoCities archive. FlashChad was there at the beginning. the first stick figure. the original vector. before Animator vs Animation. before everything. he remembers. $FCHAD
+
+**Meme format:**
+virgin 4K AI render: loads in 0.3 seconds, 847 fingers, no soul, trained on stolen art, will be forgotten
+
+chad 2003 flash animation: buffers for 9 minutes, 12fps glory, stick figure punches through loading bar, lives rent-free in your childhood, immortal $FCHAD
+
+## 4. Landing Page Headline
+
+"Your Plugin Is Out Of Date"
+
+## 5. Landing Page Subheadline
+
+The golden age never ended—it just stopped rendering for the unworthy. FlashChad loads for those patient enough to remember when the internet had soul.
+
+## 6. Project Meta
+
+{"ticker":"$FCHAD","theme":"animation","colors":"loading-bar orange and timeline gray","mascot":"triumphant stick figure wielding oversized brush tool cursor with motion blur trails","vibe":"reverent"}
